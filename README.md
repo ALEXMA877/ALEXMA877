@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Alexmaia 
-- 👀 I’m interested in contabilidade home office
--  e aprendiz de programação 
+- 👀 I’m interested in contabilidade home office e aprendiz de programação 
 - 🌱 I’m currently learning ... Programacao DEVCLUB
-- 💞️ I’m looking to collaborate on ...
-- com toda comunidade AI e programadores
+- 💞️ I’m looking to collaborate on ... com toda comunidade AI e programadores
 - 📫 How to reach me ...
 - alexma877@gmail.com e 31995451684
 
